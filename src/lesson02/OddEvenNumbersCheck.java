@@ -1,4 +1,4 @@
-package oddevennumberscheck;
+package lesson02;
 
 import java.util.Scanner;
 

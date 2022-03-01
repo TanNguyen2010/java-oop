@@ -1,4 +1,4 @@
-package calculate_bmi;
+package lesson02;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
